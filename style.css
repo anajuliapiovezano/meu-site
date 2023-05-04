@@ -1,3 +1,24 @@
 body{
     background-color:  rgba(0, 0, 0, 0.25)
 }
+
+.foto{
+       border-radius: 50%;
+       display: inline;
+}
+
+.nome{
+  position: relative;
+  width: 394px;
+  margin-left: 800px;
+  height: 48px;
+  margin-top: 5px;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+}
